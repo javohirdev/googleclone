@@ -1,6 +1,6 @@
 # Google clone made with React, Redux on Google search API
 
-![Alt Text](https://github.com/javohirdev/googleclone/blob/main/doc_2021-03-20_12-58-51.gif.mp4)
+![Alt Text](https://github.com/5ebs/Google-Clone/blob/main/g.gif)
 
 # Getting Started with Create React App
 
